@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React, Node.JS, and data structures/algorithms**
 
-- Link to my freelancing portfolio [williamchun.netlify.app](williamchun.netlify.app)
+- Link to my freelancing portfolio: [williamchun.netlify.app](williamchun.netlify.app)
 
-- 📫 How to reach me **williamchun1999@gmail.com**
+- 📫 How to reach me: **williamchun1999@gmail.com**
 
-- ⚡ Fun fact **I've hosted my own esport tournament!**
+- ⚡ Fun fact: **I've hosted my own esport tournament!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
