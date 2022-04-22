@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Chun</h1>
-<h3 align="center">I'm a full-stack developer that loves good food, good company, and games!</h3>
+<h3 align="center">I'm a software developer that loves good food, good company, and games!</h3>
 
 - 🔭 I’m currently working on **LetMeIn UBC**
 
