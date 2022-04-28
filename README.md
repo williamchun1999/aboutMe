@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Chun</h1>
 <h3 align="center">I'm a software developer that loves good food, good company, and games!</h3>
 
-- 🔭 I’m currently working on **LetMeIn UBC**
+- 🔭 I’m currently working at SPG
 
-- 🌱 I’m currently learning **React, Node.JS, and data structures/algorithms**
+- 🌱 I’m currently learning **React, TypeScript, and data structures/algorithms**
 
 - Link to my freelancing portfolio: https://williamchun.netlify.app
 
