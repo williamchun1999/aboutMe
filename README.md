@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at SPG
 
-- 🌱 I’m currently learning **React, TypeScript, and data structures/algorithms**
+- 🌱 I’m currently learning **AWS CDK and data structures/algorithms**
 
 - Link to my freelancing portfolio: https://williamchun.netlify.app
 
